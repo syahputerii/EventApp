@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">DicodingEvent</string>
+    <string name="event_name">event name</string>
+    <string name="event_quota">Event Quota</string>
+    <string name="event_summary">Event Summary</string>
+    <string name="event_imagelogo">Image Logo</string>
+    <string name="event_category">Category</string>
+    <string name="event_owner">Event Owner</string>
+    <string name="event_city">Event City</string>
+    <string name="description">Description</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="event_upcoming">Upcoming</string>
+    <string name="title_upcoming">Upcoming Events</string>
+    <string name="event_finished">Finished</string>
+    <string name="title_finished">Finished Events</string>
+    <string name="title_detail">Detail Activity</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="event_favorite">Favorite Events</string>
+    <string name="no_favorite">No Favorite Events</string>
+    <string name="begin_time">Begin Time</string>
+    <string name="event_registrants" tools:ignore="UnusedResources">event registranst</string>
+    <string name="Register">Register</string>
+    <string name="Search">Search Events</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
